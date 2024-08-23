@@ -1,6 +1,6 @@
 # AIML-2025-2303A51882-Rohith
 # Artificial Intlligance and Machine Learning Lab Instruction Sheets
-1.  [Lab 01](); Introduction to Python Libraries-Numpy
+1.  [Lab 01](https://github.com/2303a51882/AIML-2025/blob/ee3b50583e0a1869b596a22817c33c8ba62a1c96/AIML_A1.pdf); Introduction to Python Libraries-Numpy
 2.  [Lab 02](); Introduction to Python Libraries-Numpy
 3.  [Lab 03](); Introduction to Python Libraries-Numpy
 4.  [Lab 04](); Introduction to Python Libraries-Numpy
